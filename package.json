@@ -14,7 +14,7 @@
     "files": [
         "dist"
     ],
-    "useEffect": false,
+    "sideEffects": false,
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.7.7",

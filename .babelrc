@@ -5,11 +5,10 @@
       {
         "modules": false,
         "useBuiltIns": "usage",
-        "corejs": "2.6.10",
         "targets": {
           "ie": 9
         }
-      },
+      }
     ],
     "@babel/preset-react"
   ],
