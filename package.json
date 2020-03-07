@@ -1,6 +1,6 @@
 {
     "name": "react-ahax",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "",
     "main": "dist/main.cjs.js",
     "module": "dist/main.esm.js",
